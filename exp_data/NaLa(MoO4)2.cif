@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_NaLa(MoO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38779400
+_cell_length_b   5.38779400
+_cell_length_c   11.97768600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLa(MoO4)2
+_chemical_formula_sum   'Na2 La2 Mo4 O16'
+_cell_volume   347.69215221
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Na+  1.0
+  La3+  3.0
+  Mo6+  6.0
+  O2-  -2.0
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na+  Na0  1  0.00000000  0.50000000  0.25000000  1
+  Na+  Na1  1  0.50000000  0.00000000  0.75000000  1
+  La3+  La2  1  0.50000000  0.50000000  0.00000000  1
+  La3+  La3  1  0.00000000  0.00000000  0.50000000  1
+  Mo6+  Mo4  1  0.50000000  0.00000000  0.25000000  1
+  Mo6+  Mo5  1  0.00000000  0.00000000  0.00000000  1
+  Mo6+  Mo6  1  0.00000000  0.50000000  0.75000000  1
+  Mo6+  Mo7  1  0.50000000  0.50000000  0.50000000  1
+  O2-  O8  1  0.25896900  0.86259100  0.33407600  1
+  O2-  O9  1  0.74103100  0.13740900  0.33407600  1
+  O2-  O10  1  0.25646050  0.35074250  0.42182150  1
+  O2-  O11  1  0.74353950  0.64925750  0.42182150  1
+  O2-  O12  1  0.36259100  0.24103100  0.16592400  1
+  O2-  O13  1  0.63740900  0.75896900  0.16592400  1
+  O2-  O14  1  0.85074250  0.24353950  0.07817850  1
+  O2-  O15  1  0.14925750  0.75646050  0.07817850  1
+  O2-  O16  1  0.75896900  0.36259100  0.83407600  1
+  O2-  O17  1  0.24103100  0.63740900  0.83407600  1
+  O2-  O18  1  0.75646050  0.85074250  0.92182150  1
+  O2-  O19  1  0.24353950  0.14925750  0.92182150  1
+  O2-  O20  1  0.86259100  0.74103100  0.66592400  1
+  O2-  O21  1  0.13740900  0.25896900  0.66592400  1
+  O2-  O22  1  0.35074250  0.74353950  0.57817850  1
+  O2-  O23  1  0.64925750  0.25646050  0.57817850  1
