@@ -6,6 +6,6 @@
 
 ---
 
-The workflow of model architecture is as follows <br>
+**The workflow of model architecture is as follows** <br>
 
 ![image](./model_structure.png)
