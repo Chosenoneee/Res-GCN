@@ -4,4 +4,5 @@
 
 
 **The workflow of model architecture is as follows** <br>
-![Uploading model_structure.png…]()
+
+![image](./model_structure.png)
