@@ -4,4 +4,4 @@
 
 
 **The workflow of model architecture is as follows** <br>
-![image](https://github.com/Zhaochen-Xi/Res-GCN/edit/main/model_structure.png)
+![Uploading model_structure.png…]()
